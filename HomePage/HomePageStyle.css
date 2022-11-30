@@ -1,0 +1,32 @@
+#Logo
+{
+    text-align: right ;
+    background-color: aqua;
+    margin: auto;
+}
+
+ul 
+{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: aqua;
+}
+
+li 
+{
+    float: left;
+}
+
+li a 
+{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    border-radius: 10%;
+    background-color: rgb(8, 113, 199);
+}
+
