@@ -1,0 +1,59 @@
+html
+{
+    background-color: aquamarine;
+}
+
+#Logo
+{
+    position: fixed;
+    text-align: right;
+    right: 860px;
+    top: 50px;
+    mix-blend-mode: multiply;
+    object-position: 50% 50%;
+    border-radius: 4px;
+    padding: 5px;
+    width: 500px;
+    opacity: 0.5;
+
+}
+ul 
+{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: aqua;
+}
+
+li 
+{
+    float: left;
+}
+
+li a 
+{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    border-radius: 10%;
+    background-color: rgb(8, 113, 199);
+}
+
+#SalesBTN
+{
+    position: fixed;
+    text-align: center;
+    mix-blend-mode: multiply;
+    object-position: 50% 50%;
+    padding: 15px 32px;
+    top: 520px;
+    background-color: rgb(0, 0, 255);
+    border: none;
+    color:rgb(0, 255, 106);
+    display: inline-block;
+    font-size: 16px;
+    left: 850px;
+}
